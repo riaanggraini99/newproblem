@@ -1,1 +1,5 @@
-echo "try"
+echo "tryout"
+echo "blalklaksldkalskdlaksd"
+echo "lollolololol"
+echo "asajkhnkjasnhfjkasdn"
+echo "koko"
